@@ -63,7 +63,7 @@ function App() {
                 allDay:selectInfo.allDay
             })
         }
-}
+}  
 
   return (
     <>
@@ -71,7 +71,7 @@ function App() {
         
         <Container className="mt-5">
             <Row>
-            <FullCalendar
+                <FullCalendar
                     plugins={[dayGridPlugin,timeGridPlugin,interactionPlugin]}
                     customButtons={{
                         btn:{

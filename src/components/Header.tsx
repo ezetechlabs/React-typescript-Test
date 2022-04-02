@@ -9,7 +9,7 @@ const Header: React.FunctionComponent<IHeaderProps> = (props) => {
         <Navbar bg="dark" variant="dark">
             <Container>
                 <Navbar.Brand>
-                    React TypeScript For Ergeon Test
+                    Ergeon Test 1 - Make a horizontal calendar component
                 </Navbar.Brand>
             </Container>
       </Navbar>
